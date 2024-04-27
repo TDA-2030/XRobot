@@ -1,0 +1,22 @@
+numpy
+opencv-python
+# pypylon
+pandas
+PyQt5==5.15.10
+#PyQt5-tools
+onnxruntime-gpu
+minimalmodbus==2.1.1
+# --extra-index-url https://download.pytorch.org/whl/cu116
+# torch==1.13.1+cu116
+# torchvision==0.14.1+cu116
+# torchaudio==0.13.1
+# pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117
+scipy
+shapely
+psutil
+scikit-image
+matplotlib
+pyrealsense2
+
+--find-links=./resource
+motormaster

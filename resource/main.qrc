@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="mian_background">
+    <file>model.png</file>
+    <file>diagram-downstream.png</file>
+    <file>splash_bg.png</file>
+    <file>diagram-upsteam.png</file>
+    <file>cameraclose.png</file>
+    <file>badge.png</file>
+    <file>badge.png</file>
+    <file>badge1.png</file>
+    <file>cover.jpg</file>
+    <file>log.png</file>
+    <file>disconnect.png</file>
+    <file>cameraopen.png</file>
+    <file>logo.png</file>
+    <file>manual.png</file>
+    <file>connect.png</file>
+    <file>openfile.png</file>
+    <file>savefile.png</file>
+    <file>close.png</file>
+    <file>max.png</file>
+    <file>min.png</file>
+  </qresource>
+</RCC>

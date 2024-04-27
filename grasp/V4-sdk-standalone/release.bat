@@ -1,0 +1,1 @@
+git archive --format=tar.gz -o sdk_release.tar.gz master

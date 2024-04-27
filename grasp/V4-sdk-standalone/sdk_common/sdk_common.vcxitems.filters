@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="libmodbus">
+      <UniqueIdentifier>{c2af4f81-a68a-40cc-97be-058e514af3af}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="$(MSBuildThisFileDirectory)libmodbus\config_linux.h">
+      <Filter>libmodbus</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)libmodbus\config_win.h">
+      <Filter>libmodbus</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)libmodbus\modbus.h">
+      <Filter>libmodbus</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)libmodbus\modbus-private.h">
+      <Filter>libmodbus</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)libmodbus\modbus-rtu.h">
+      <Filter>libmodbus</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)libmodbus\modbus-rtu-private.h">
+      <Filter>libmodbus</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)libmodbus\modbus-tcp.h">
+      <Filter>libmodbus</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)libmodbus\modbus-tcp-private.h">
+      <Filter>libmodbus</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)libmodbus\modbus-version.h">
+      <Filter>libmodbus</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)Exception.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)Config.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)Modbus.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)RMAxis.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="$(MSBuildThisFileDirectory)libmodbus\libmodbus.c">
+      <Filter>libmodbus</Filter>
+    </ClCompile>
+    <ClCompile Include="$(MSBuildThisFileDirectory)libmodbus\libmodbus-data.c">
+      <Filter>libmodbus</Filter>
+    </ClCompile>
+    <ClCompile Include="$(MSBuildThisFileDirectory)libmodbus\libmodbus-rtu.c">
+      <Filter>libmodbus</Filter>
+    </ClCompile>
+    <ClCompile Include="$(MSBuildThisFileDirectory)libmodbus\libmodbus-tcp.c">
+      <Filter>libmodbus</Filter>
+    </ClCompile>
+    <ClCompile Include="$(MSBuildThisFileDirectory)Modbus.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)RMAxis.cpp" />
+  </ItemGroup>
+</Project>

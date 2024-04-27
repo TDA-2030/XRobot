@@ -1,0 +1,28 @@
+{
+  "s_platform": {
+    "setting_name": "platfrom",
+    "robot_ip": "192.168.1.66:43000",
+    "belt_port": "COM9:38400",
+    "encoder_port": "COM11:38400",
+    "gripper_port": "COM10:115200",
+    "belt_speed": 20,
+    "travel_speed": 300,
+    "travel_accel": 200,
+    "travel_decel": 200,
+    "close_speed": 150,
+    "close_accel": 170,
+    "close_decel": 170,
+    "grasp_prepare_latency_ms": 400,
+    "grasp_close_time_ms" : 300,
+    "sucker_close_time_ms" : 200
+  },
+  "s_detection": {
+    "camera_param": "cal_param_realsense.json",
+    "robot_param": "robot_param_realsense.json",
+    "setting_name": "detection",
+    "detection_model": "YOLO",
+    "model": "yolo/yolov5s.onnx",
+    "detection_device": 0,
+    "camera_latency_ms": 180
+  }
+}

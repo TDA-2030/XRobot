@@ -1,0 +1,179 @@
+<!DOCTYPE QPH>
+<QPH sourcelanguage="zh" language="en">
+<phrase>
+    <source>分拣</source>
+    <target>Sorting</target>
+</phrase>
+<phrase>
+    <source>校准</source>
+    <target>Calibration</target>
+</phrase>
+<phrase>
+    <source>位置坐标</source>
+    <target>Position</target>
+</phrase>
+<phrase>
+    <source>统计</source>
+    <target>Statistics</target>
+</phrase>
+<phrase>
+    <source>塑料瓶</source>
+    <target>Bottle</target>
+</phrase>
+<phrase>
+    <source>塑料</source>
+    <target>Plastic</target>
+</phrase>
+<phrase>
+    <source>速度</source>
+    <target>Speed</target>
+</phrase>
+<phrase>
+    <source>设置</source>
+    <target>Setting</target>
+</phrase>
+<phrase>
+    <source>下一步</source>
+    <target>Next</target>
+</phrase>
+<phrase>
+    <source>易拉罐</source>
+    <target>Metal</target>
+</phrase>
+<phrase>
+    <source>扫描相机</source>
+    <target>Scan Camera</target>
+</phrase>
+<phrase>
+    <source>日志</source>
+    <target>Logging</target>
+</phrase>
+<phrase>
+    <source>连接</source>
+    <target>Connect</target>
+</phrase>
+<phrase>
+    <source>利乐包装</source>
+    <target>Tetra Pak</target>
+</phrase>
+<phrase>
+    <source>垃圾袋</source>
+    <target>Waste Bag</target>
+</phrase>
+<phrase>
+    <source>控制面板</source>
+    <target>Control Panel</target>
+</phrase>
+<phrase>
+    <source>开始分拣</source>
+    <target>Start</target>
+</phrase>
+<phrase>
+    <source>打开相机</source>
+    <target>Open Camera</target>
+</phrase>
+<phrase>
+    <source>玻璃瓶</source>
+    <target>Glass</target>
+</phrase>
+<phrase>
+    <source>导出</source>
+    <target>Export</target>
+</phrase>
+<phrase>
+    <source>分拣</source>
+    <target>Sorting</target>
+</phrase>
+<phrase>
+    <source>占比</source>
+    <target>Proportion</target>
+</phrase>
+<phrase>
+    <source>分拣数量</source>
+    <target>Sorted Quantity</target>
+</phrase>
+<phrase>
+    <source>总数量</source>
+    <target>Quantity</target>
+</phrase>
+<phrase>
+    <source>分拣率</source>
+    <target>Rate</target>
+</phrase>
+<phrase>
+    <source>导入设置</source>
+    <target>Export</target>
+</phrase>
+<phrase>
+    <source>保存设置</source>
+    <target>Save</target>
+</phrase>
+<phrase>
+    <source>推理硬件：</source>
+    <target>Computing Device:</target>
+</phrase>
+<phrase>
+    <source>精度阈值</source>
+    <target>Score Threshold</target>
+</phrase>
+<phrase>
+    <source>速度</source>
+    <target>Speed</target>
+</phrase>
+<phrase>
+    <source>帧率</source>
+    <target>FPS</target>
+</phrase>
+<phrase>
+    <source>确认后点击下一步</source>
+    <target>Confirm and click Next</target>
+</phrase>
+<phrase>
+    <source>确认要校准的设备</source>
+    <target>Identify the equipment to be calibrated</target>
+</phrase>
+<phrase>
+    <source>连接相机</source>
+    <target>Connect camera</target>
+</phrase>
+<phrase>
+    <source>检查相机检测到标定板，将标定板依次放置在可视区域内并点击拍摄</source>
+    <target>Check if the camera detects the calibration board. Place the calibration board sequentially in the visible area and click to capture</target>
+</phrase>
+<phrase>
+    <source>上一步</source>
+    <target>Back</target>
+</phrase>
+<phrase>
+    <source>校准结果</source>
+    <target>Calibration Results</target>
+</phrase>
+<phrase>
+    <source>拍摄</source>
+    <target>Capture</target>
+</phrase>
+<phrase>
+    <source>校准完成，检查校准误差，确认后点击完成校准</source>
+    <target>Calibration complete. Check the calibration errors.</target>
+</phrase>
+<phrase>
+    <source>移动传送带到机器人下游线位置，并对准标记点1</source>
+    <target>Move the conveyor belt to the downstream position of the robot and align it with marker point 1</target>
+</phrase>
+<phrase>
+    <source>将机器人末端对准点1，点击按钮读取点1的坐标，完成后点击下一步</source>
+    <target>Align the robot end effector with point 1, then click the button to read the coordinates of point 1. After completion, click &quot;Next.&quot;</target>
+</phrase>
+<phrase>
+    <source>移动传送带到机器人上游线位置，并对准标记点1，2，3，4，......，12，至少需要对准三个点</source>
+    <target>Move the conveyor belt to the upstream position of the robot and align it with marker points 1, 2, 3, 4, ..., 12. Ensure alignment with at least three points</target>
+</phrase>
+<phrase>
+    <source>将机器人末端分别对准每个点，依次点击按钮读取每个点的坐标，完成后点击下一步</source>
+    <target>Align the robot end effector with each point, then click the button to read the coordinates of each point successively. Once completed, click &quot;Next.&quot;</target>
+</phrase>
+<phrase>
+    <source>请将标定板平铺在传送带上，使画面中检测出标定板上的所有角点。变换不同位置拍摄标定板，应尽可能覆盖满可视区域，拍摄10张左右不同的照片之后点击下一步</source>
+    <target>Place the calibration board flat on the conveyor belt, ensuring that all corners of the calibration board are detected in the frame. Capture images of the calibration board from various positions, covering as much of the visible area as possible. After capturing around 10 different photos, click &quot;Next.&quot;</target>
+</phrase>
+</QPH>

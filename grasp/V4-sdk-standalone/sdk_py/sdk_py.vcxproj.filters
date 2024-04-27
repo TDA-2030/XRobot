@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="pybind11">
+      <UniqueIdentifier>{0523ead3-1e8d-4e3e-8bb5-a4597ad49b51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pybind11\detail">
+      <UniqueIdentifier>{072179c8-616d-41a1-ac54-eb599800025d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pybind11\attr.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\buffer_info.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\cast.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\chrono.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\common.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\complex.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\eigen.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\embed.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\eval.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\functional.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\iostream.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\numpy.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\operators.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\options.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\pybind11.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\pytypes.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\stl.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\stl_bind.h">
+      <Filter>pybind11</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\detail\class.h">
+      <Filter>pybind11\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\detail\common.h">
+      <Filter>pybind11\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\detail\descr.h">
+      <Filter>pybind11\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\detail\init.h">
+      <Filter>pybind11\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\detail\internals.h">
+      <Filter>pybind11\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="pybind11\detail\typeid.h">
+      <Filter>pybind11\detail</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="wrapper.cpp" />
+  </ItemGroup>
+</Project>
